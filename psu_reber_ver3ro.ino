@@ -4,7 +4,7 @@
  http://nicuflorica.blogspot.ro
 amper & voltmeter by niq_ro, 02.2013, Craiova, Romania
 vers. 1.3 - see http://nicuflorica.blogspot.ro/2013/02/arduino-ca-multimetru-2.html
-actual 3.0 - 06.2017
+actual 3.0 - 06.2017 - https://nicuflorica.blogspot.ro/2017/07/alimentator-reglabil-0-30v0-7a-cu-volt.html
  */
 
 #include <Wire.h> 
