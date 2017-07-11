@@ -43,8 +43,8 @@ float temax = 40.0;  // temperatura maxima 40 grade
 float dete = 2.0;    // histerezis temperatura
 
 float r2 = 39.; // rezistenta conectata de la + la A1
-float r1 = 1. ; // rezistenta conectata de la A1 la A0
-float rsunt = 0.055 ; // valoare rezistenta sunt
+float r1 = 1. ; // rezistenta conectata de la A1 la GND
+float rsunt = 0.055 ; // valoare rezistenta (sunt)
 
 float sumatensiune = 0.;   // valoare insumare tensiune pentru calcul medie
 float sumacurent = 0.; // valoare insumare curent pentru calcul medie
